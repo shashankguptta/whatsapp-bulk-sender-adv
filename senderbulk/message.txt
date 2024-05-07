@@ -1,0 +1,9 @@
+this is shashank 
+now its  is final version of  whats app automation where you can send files vidio ,txt.jpeg 
+
+made by shashank update and final virsion now 
+
+project close()
+exit()
+
+
